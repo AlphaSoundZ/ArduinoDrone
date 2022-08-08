@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "sketch": "joystick_test.ino",
+    "port": "COM7"
+}
