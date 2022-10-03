@@ -1,2 +1,2 @@
 # ArduinoDrone
-YMFC Not made by myself!
+YMFC is not made by me
